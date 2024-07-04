@@ -1,10 +1,6 @@
 # Hotel by Toby Fox
 #
 # Author: Collins Ramsey
-# Email: ramseycs@g.cofc.edu
-# Class: CITA 180   
-# Assignment: Homework #3
-# Due Date: February 21
 #
 # Purpose: Plays the first few measures of a cheery song
 # called Hotel by Toby Fox, creater of Undertale
