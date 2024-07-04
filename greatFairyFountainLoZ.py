@@ -1,10 +1,7 @@
 # greatFairyFountainLoZ.py
 #
 # Author:  Collins Ramsey
-# Email:   ramseycs@g.cofc.edu
-# Class:   CITA 180   
-# Assignment: Homework #2
-# Due Date:   February 10
+# 
 #
 # Purpose: Plays the melody Great Fairy Fountain from
 # the series Legend of Zelda
